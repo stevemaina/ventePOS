@@ -1,0 +1,3 @@
+com.baycloud.synpos.ui.CustomersQueryDlg_jButton2_actionAdapter
+com.baycloud.synpos.ui.CustomersQueryDlg_jButton3_actionAdapter
+com.baycloud.synpos.ui.CustomersQueryDlg

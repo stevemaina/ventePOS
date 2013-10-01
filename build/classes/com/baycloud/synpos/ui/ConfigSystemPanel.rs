@@ -1,0 +1,2 @@
+com.baycloud.synpos.ui.ConfigSystemPanel
+com.baycloud.synpos.ui.ConfigSystemPanel_jButton2_actionAdapter

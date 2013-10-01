@@ -1,0 +1,5 @@
+com.baycloud.synpos.ui.SelectCustomerDlg_jButton4_actionAdapter
+com.baycloud.synpos.ui.SelectCustomerDlg_jButton3_actionAdapter
+com.baycloud.synpos.ui.SelectCustomerDlg_jButton1_actionAdapter
+com.baycloud.synpos.ui.SelectCustomerDlg_jButton2_actionAdapter
+com.baycloud.synpos.ui.SelectCustomerDlg

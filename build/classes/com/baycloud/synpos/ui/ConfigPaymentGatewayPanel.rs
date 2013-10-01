@@ -1,0 +1,2 @@
+com.baycloud.synpos.ui.ConfigPaymentGatewayPanel
+com.baycloud.synpos.ui.ConfigPaymentGatewayPanel_jButton1_actionAdapter

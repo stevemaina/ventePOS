@@ -1,0 +1,10 @@
+com.baycloud.synpos.ui.CustomersPanel_jButton8_actionAdapter
+com.baycloud.synpos.ui.CustomersPanel_jButton2_actionAdapter
+com.baycloud.synpos.ui.CustomersPanel_jButton4_actionAdapter
+com.baycloud.synpos.ui.CustomersPanel_jButton7_actionAdapter
+com.baycloud.synpos.ui.CustomersPanel
+com.baycloud.synpos.ui.CustomersPanel_jButton1_actionAdapter
+com.baycloud.synpos.ui.CustomersPanel_jButton5_actionAdapter
+com.baycloud.synpos.ui.CustomersPanel_jButton6_actionAdapter
+com.baycloud.synpos.ui.CustomersPanel_jButton9_actionAdapter
+com.baycloud.synpos.ui.CustomersPanel_jButton3_actionAdapter

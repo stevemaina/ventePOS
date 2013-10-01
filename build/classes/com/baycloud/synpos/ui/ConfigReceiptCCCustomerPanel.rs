@@ -1,0 +1,3 @@
+com.baycloud.synpos.ui.ConfigReceiptCCCustomerPanel_jButton2_actionAdapter
+com.baycloud.synpos.ui.ConfigReceiptCCCustomerPanel
+com.baycloud.synpos.ui.ConfigReceiptCCCustomerPanel_jButton1_actionAdapter

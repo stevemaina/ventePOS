@@ -1,0 +1,6 @@
+com.baycloud.synpos.ui.ProductsPanel_jTextField1_keyAdapter
+com.baycloud.synpos.ui.ProductsPanel_jScrollPane2_mouseAdapter
+com.baycloud.synpos.ui.ProductsPanel_jButton2_actionAdapter
+com.baycloud.synpos.ui.ProductsPanel_jScrollPane1_mouseAdapter
+com.baycloud.synpos.ui.ProductsPanel
+com.baycloud.synpos.ui.ProductsPanel_jButton1_actionAdapter
